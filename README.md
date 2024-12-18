@@ -1,11 +1,11 @@
 # DS-YOLO
 # Introduction
-This project provides the code of our MLDP framework.
+This project provides the code of our DS-YOLO.
 
 
 # Getting Strated
 
-# The Generation Results of MLDP
+# The Generation Results of DS-YOLO
 
 # Citation
-If you find the MLDP framework useful in your research, please cite our paper:
+If you find the DS-YOLO useful in your research, please cite our paper:
