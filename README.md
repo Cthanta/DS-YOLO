@@ -16,7 +16,7 @@ This repository is the official PyTorch implementation of DS-YOLO to SAR Ship De
 ```bash
 python train_ssl.py
 ```
-Take care to change the value from the hyperparameter lamda before training.
+Please **Take care to change the value from the hyperparameter `lamda`** before training.
 
 ---
 
