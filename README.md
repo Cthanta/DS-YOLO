@@ -16,6 +16,7 @@ This repository is the official PyTorch implementation of DS-YOLO to SAR Ship De
 ```bash
 python train_ssl.py
 ```
+Take care to change the value from the hyperparameter lamda before training.
 
 ---
 
@@ -32,13 +33,7 @@ python detect_ssl.py
 ---
 
 
-## Data Preparation 
-To prepare testing data, please organize images as `data/datasets/Set5/HR/baby.png`, and run this command:
-```bash
-cd data
-python prepare_dataset.py --model MLMC --sf 2 --dataset Set5
-```
-
+## Dataset Preparation 
 
 LS-SSDD datasets can be downloaded [here](https://radars.ac.cn/web/data/getData?newsColumnId=6b535674-3ce6-43cc-a725-9723d9c7492c).
 
