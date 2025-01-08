@@ -6,7 +6,7 @@ This repository is the official PyTorch implementation of DS-YOLO to SAR Ship De
 
 > Deep learning techniques are extensively applied to synthetic aperture radar (SAR) ship detection tasks. Nonetheless, the limited availability of labeled SAR images impedes the neural network's ability to learn and extract robust objects features from SAR ship images. To alleviate the dependence on large datasets, this letter introduces a despeckle-based representation learning approach for SAR ship detection, named Despeckling Ship Detection YOLO (DS-YOLO). The DS-YOLO model integrates a shared feature extractor, a detection head, and a despeckling head, facilitating the concurrent performance of SAR image despeckling and ship detection. The model effectively reduces the potential for neural network overfitting by conducting joint learning of detection and despeckling processes. As a result, DS-YOLO is particularly well-suited for SAR ship detection tasks with constrained training data. Comprehensive experiments indicate that DS-YOLO substantially surpasses the performance of the conventional detection model, particularly in scenarios where labeled data is severely restricted.
 ><p align="center">
-  > <img height="400" src="./illustrations/MLMC.png">
+  > <img height="400" src="https://github.com/Cthanta/DS-YOLO/tree/master/illustrations/DS-YOLO_overall.png">
 </p>
 
 ## Requirements
