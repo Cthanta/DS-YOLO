@@ -41,9 +41,12 @@ LS-SSDD datasets can be downloaded [here](https://radars.ac.cn/web/data/getData?
 SSDD datasets can be downloaded [here](https://gitcode.com/gh_mirrors/of/Official-SSDD/blob/main/README.md?utm_source=csdn_github_accelerator&isLogin=1).
 
 ## Note
-The pre-training weights are in **"\DS-YOLO\runs\train\SSL"**
-Dataset configuration documents ".yaml" are in **"\DS-YOLO\data"**
-Model configuration documents ".yaml" are in **"\DS-YOLO\models\SSL"**
+The pre-training weights are in **"\DS-YOLO\runs\train\SSL"**.
+
+Dataset configuration documents ".yaml" are in **"\DS-YOLO\data"**.
+
+Model configuration documents ".yaml" are in **"\DS-YOLO\models\SSL"**.
+
 
 ## Acknowledgement
 
